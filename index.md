@@ -1,4 +1,4 @@
-Johnny Coder
+
 ============
 
 -------------------     ----------------------------
@@ -10,22 +10,23 @@ MyCountry                           1800 my-phone-nr
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2018-2022(expected)
+:   **btech, Information Technology**;RVR AND JC COLLEGE OF ENGINEERING(Guntur)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2016-2018
+:   **intermediate, MPC**; sri chaitanya jr college
+    
 
     *Minor: Awesomeology*
 
-Experience
-----------
-
-**Your Most Recent Work Experience:**
+Technical Experience
+--------------------
+**smartknower* FOR WEB DEVELOPMENT
+programming languages
+c
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
